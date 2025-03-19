@@ -1,0 +1,43 @@
+hr {
+  border: 0.2rem solid $primaryColor;
+}
+// Main
+#main {
+  // Start
+  #start {
+    padding: 8rem 0;
+    background-color: $primaryColor;
+    h2 {
+      font-size: 4rem;
+    }
+    hr {
+      border: 0.2rem solid #fff;
+    }
+  }
+  // Services
+  #services {
+    i {
+      color: $primaryColor;
+    }
+    h2 {
+      font-size: 4rem;
+    }
+  }
+  // Download
+  #download {
+    padding: 6rem 0;
+    h2 {
+      font-size: 4rem;
+    }
+  }
+  // Contact
+  #contact {
+    padding: 6rem 0;
+    h2 {
+      font-size: 4rem;
+    }
+    .btn{
+      background-color: $primaryColor;
+    }
+  }
+}

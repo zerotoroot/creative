@@ -1,0 +1,59 @@
+html {
+  font-size: 10px;
+}
+
+#nav {
+  background-color: #f4623a;
+}
+
+#header {
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../images/bg-masthead.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 30rem 0;
+}
+#header h1 {
+  font-size: 5rem;
+}
+#header a {
+  background-color: #f4623a;
+}
+#header hr {
+  border: 0.2rem solid #f4623a;
+}
+
+hr {
+  border: 0.2rem solid #f4623a;
+}
+
+#main #start {
+  padding: 8rem 0;
+  background-color: #f4623a;
+}
+#main #start h2 {
+  font-size: 4rem;
+}
+#main #start hr {
+  border: 0.2rem solid #fff;
+}
+#main #services i {
+  color: #f4623a;
+}
+#main #services h2 {
+  font-size: 4rem;
+}
+#main #download {
+  padding: 6rem 0;
+}
+#main #download h2 {
+  font-size: 4rem;
+}
+#main #contact {
+  padding: 6rem 0;
+}
+#main #contact h2 {
+  font-size: 4rem;
+}
+#main #contact .btn {
+  background-color: #f4623a;
+}/*# sourceMappingURL=main.css.map */
